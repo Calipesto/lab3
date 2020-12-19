@@ -1,0 +1,37 @@
+* {
+font-size: 18px;
+}
+
+.header {
+background-color: white;
+min-height: 70px;
+color: white;
+border-bottom: 2px solid black;
+}
+
+.container {
+margin-left: 20px;
+}
+
+.footer {
+background-color: black;
+min-height: 150px;	
+}
+
+.footer-content {
+	display: none;
+}
+
+.align_justify{
+	border: 1px solid #aaa;
+	background: #FFDEAD;
+	padding: 3px;
+	text-align: justify;
+	}
+.myp {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  line-height: 100%;
+  font-size: 9px;
+}
